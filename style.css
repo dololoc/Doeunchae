@@ -3,6 +3,8 @@ h1{margin:0; font-size:2rem; font-weight:700; line-height:4.8rem; letter-spacing
 h2{margin:0; font-size:1.4rem; font-weight:700; line-height:2.8rem; letter-spacing:-0.5px;}
 p{margin:0; font-size:1.12rem; font-weight:500; line-height:2.24rem; letter-spacing:-0.5px;}
 
+#loading{width:100%; height:100%; top:0; left:0; position:fixed; display:block; background-color:#e1e9fc; z-index:99;}
+
 .scroll-top{position:fixed; top:0px; right:0px; color:yellow; z-index:-20; opacity:0;}
 .trigger-top{position:fixed; top:64vh; right:0px; color:yellow; z-index:-20; opacity:0;}
 .trigger-bottom{position:fixed; top:92vh; right:0px; color:yellow; z-index:-20; opacity:0;}
