@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2021 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="forward" unicode="&#xe800;" d="M416 650q0 21 16 36t37 16 36-15l329-324-329-323q-15-15-36-15t-37 15-16 37l0 130q-132-4-234-46t-182-163l0 53q0 180 119 313t297 153l0 133z" horiz-adv-x="834" />
+
+<glyph glyph-name="collond" unicode="&#xe801;" d="M25 374c-14 14-20 32-20 54s6 40 20 52 32 21 53 21 38-7 52-21c14-12 21-32 21-52s-7-40-21-54-32-21-52-21-38 7-53 21z m0-273c-14 14-20 32-20 54s6 39 20 52 32 21 54 21 39-7 53-21c14-13 20-32 20-52s-6-40-20-54-32-21-53-21-39 7-54 21z m226 455h243c57 0 109-11 154-33s79-54 103-94c25-39 36-87 36-139s-12-100-36-140c-26-40-59-71-103-94s-96-33-154-33h-243v533z m236-431c54 0 96 14 127 44s48 70 48 121c0 51-16 90-48 120s-74 45-127 45h-112v-330h112z" horiz-adv-x="794" />
+
+<glyph glyph-name="record" unicode="&#xe802;" d="M350 700q146 0 248-102t102-248q0-144-102-247t-248-103-248 103-102 247q0 146 102 248t248 102z" horiz-adv-x="700" />
+
+<glyph glyph-name="collon" unicode="&#xe803;" d="M27 374c-14 14-21 32-21 54s7 40 21 52 32 21 52 21 39-7 53-21c14-12 20-32 20-52s-6-40-20-54-32-21-53-21-38 7-52 21z m0-273c-14 14-21 32-21 54s7 39 21 52c14 13 32 21 52 21s39-7 53-21c14-13 20-32 20-52 0-21-6-40-20-54s-32-21-53-21-38 7-52 21z" horiz-adv-x="159" />
+
+<glyph glyph-name="glyphd" unicode="&#xe804;" d="M29 556h242c58 0 110-11 154-33s80-54 104-94c25-39 36-87 36-139s-13-100-36-140c-26-40-59-71-104-94s-95-33-154-33h-242v533z m236-431c54 0 95 14 127 44s48 70 48 121c0 51-16 90-48 120s-74 45-127 45h-113v-330h113z" horiz-adv-x="571" />
+</font>
+</defs>
+</svg>
