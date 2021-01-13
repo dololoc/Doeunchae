@@ -67,7 +67,8 @@ ul.projects-area li{width:100vw; height:340vh;}
 .exp-img{position:absolute; top:12vh; right: 0; width: 40vw;}
 .exp-img img{border-radius:16px;}
 .exp-img-y{margin-top:-100px;}
-.exp-img-r{margin-top:-100px;width:30vw;}
+.exp-img-r{margin-top:-100px;width:26vw;}
+.exp-img-large{width:32vw;}
 
 .box1{padding-top:1rem; position:absolute; top:0; left:0; width:14.4rem; height:28vh; background-color:#ffffff; border-radius:8px;}
 .box2{padding-top:1rem; position:absolute; top:0; left:16rem; width:14.4rem; height:28vh; background:#ffffff; border-radius:8px;}
